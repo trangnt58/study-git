@@ -1,2 +1,2 @@
 # How to work with git!
-b
+c
